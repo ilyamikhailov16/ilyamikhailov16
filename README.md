@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ilyamikhailov16 and I'm a novice developer
+- 🌱 I’m currently learning Python, C# and web
